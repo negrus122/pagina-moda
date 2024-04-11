@@ -1,2 +1,2 @@
 # pagina-moda
-pagina de moda con html,css,js
+pagina de moda con html,css,js responsive
